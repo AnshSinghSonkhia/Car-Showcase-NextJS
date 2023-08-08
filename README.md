@@ -1,6 +1,6 @@
 # Website Screenshots
 
-![](https://drive.google.com/file/d/1aDLNTMsb4vV4vi0XoSjB6xn4xyTVS9QN/view?usp=drive_link)
+![](https://github.com/AnshSinghSonkhia/Car-Showcase-NextJS/blob/master/Screenshots/Screenshot%202023-08-08%20214415.png)
 
 
 
